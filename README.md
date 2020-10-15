@@ -2,6 +2,13 @@
 
 A repo to collect resources to check for bias in media and other channels.
 
+## Canonical Sources
+
+Places this repo is mirrored:
+
+* [GitLab](https://gitlab.com/egrieco/awesome-bias-checks)
+* [GitHub](https://github.com/egrieco/awesome-bias-checks)
+
 ## Media Bias
 
 * [Media Bias/Fact Check](https://mediabiasfactcheck.com/): Search and Learn the Bias of News Media
